@@ -5,3 +5,4 @@ authors = ["etzeng <etzeng@pinterest.com>"]
 
 [dependencies]
 unicode-segmentation = "*"
+md5 = "*"
